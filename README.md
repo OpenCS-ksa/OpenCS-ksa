@@ -1,3 +1,6 @@
 ![banner](image/banner_opencs.png)
-#### Korea Science Academy of KAIST
+### Korea Science Academy of KAIST
 # Computer Science 1 Mentoring
+   
+> Welcome!   
+   
